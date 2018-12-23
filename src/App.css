@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.button {
+  background-color: #e7e7e7; /* Green */
+  border: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+}
+
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+}
+
+.formField {
+  display: flex;
+  flex-direction: column;
+  width:520px;
+  margin: 20px;
+  justify-content: center;
+}
+
+.CreditDebitCounter {
+  display: flex;
+  flex-direction: row;
+  width:520px
+}
+
+
+
